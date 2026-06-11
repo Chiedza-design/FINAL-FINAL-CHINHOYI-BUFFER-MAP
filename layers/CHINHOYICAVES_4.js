@@ -1,0 +1,1 @@
+var json_CHINHOYICAVES_4 = {"type":"FeatureCollection","name":"CHINHOYICAVES_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"osm_id":"1","code":7300.0,"fclass":"Chinhoyi Caves"},"geometry":{"type":"Point","coordinates":[30.128795248106854,-17.356674794056591]}}]}
